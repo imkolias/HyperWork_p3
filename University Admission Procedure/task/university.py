@@ -70,5 +70,6 @@ for m in range(7, 10):
             result_list[n] += student_sorting(dep_list[n], m, places_left)
             result_list[n].sort(key=internal_sorting)
 
+
 # final result output
 results_output()
